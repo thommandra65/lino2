@@ -30,9 +30,9 @@ Visualization Manager:
     - Alpha: 0.8999999761581421
       Class: rviz_default_plugins/RobotModel
       Collision Enabled: false
-      description File: ""
-      description Source: Topic
-      description Topic:
+      Description File: ""
+      Description Source: Topic
+      Description Topic:
         Depth: 5
         Durability Policy: Volatile
         History Policy: Keep Last
